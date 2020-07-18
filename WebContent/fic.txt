@@ -1,0 +1,5 @@
+1, ordinateur , 20.3
+2, mobile, 32.43
+3, écran, 123
+4, clé usb 32 go, 8.5
+5, ds3d, 80
